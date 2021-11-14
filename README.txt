@@ -1,3 +1,5 @@
+--the code
+
 local loadstringsettings = {
 	url='https://raw.githubusercontent.com/h9b/prison-life-kill/main/main.lua',
 	load=true;
